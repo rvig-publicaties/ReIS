@@ -1,4 +1,4 @@
-# RDS - VR
-Reisdocumentsystemen en VerificatieRegister. 
-In deze repository vindt u de ReIS en VR gerelateerde servercertificaten. 
+# IT Productdomein Identiteitsdragers
+Reisdocumentsystemen
+In deze repository vindt u de ReIS gerelateerde servercertificaten. 
 Voor vragen: info@rvig.nl
