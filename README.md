@@ -1,5 +1,6 @@
 # IT Productdomein Identiteitsdragers
 Reisdocumentsystemen
 
-In deze repository vindt u de ReIS gerelateerde servercertificaten. 
+Zie https://github.com/rvig-publicaties/Servercertificaten voor ReIS-certificaten.
+
 Voor vragen: info@rvig.nl
