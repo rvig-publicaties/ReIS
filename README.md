@@ -11,11 +11,13 @@ Voor vragen of opmerkingen, neem contact op met: info@rvig.nl
 
 De volgende public keys zijn gepubliceerd op 9 nov 2026:
 
-  api.reis.idm.diginetwerk.net - [Geldig tot 8 mei 2027]
+api.reis.idm.diginetwerk.net - [Geldig tot 8 mei 2027]
 
-  nprportaal.idp.idm.diginetwerk.net - [Geldig tot 21 mei 2027]
+lap.api.reis.idm.diginetwerk.net - [Geldig tot 19 okt 2028]
 
-  prdportaal.idp.idm.diginetwerk.net - [Geldig tot 21 mei 2027]
+nprportaal.idp.idm.diginetwerk.net - [Geldig tot 21 mei 2027]
+
+prdportaal.idp.idm.diginetwerk.net - [Geldig tot 21 mei 2027]
 
 
 Zorg dat uw IT-beheerder deze publieke sleutels tijdig vertrouwt om de verbinding met het ReIS-serviceplatform te garanderen.
