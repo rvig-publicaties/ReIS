@@ -21,3 +21,12 @@ prdportaal.idp.idm.diginetwerk.net - [Geldig tot 21 mei 2027]
 
 
 Zorg dat uw IT-beheerder deze publieke sleutels tijdig vertrouwt om de verbinding met het ReIS-serviceplatform te garanderen.
+
+-----------------------------------------------------------
+
+De volgende public key is gepubliceerd op 12 nov 2026:
+
+rap.reis.idm.diginetwerk.net -  [Geldig tot 8 mei 2027]
+
+
+Zorg dat uw IT-beheerder deze publieke sleutel tijdig vertrouwt om de verbinding met het ReIS-serviceplatform te garanderen.
